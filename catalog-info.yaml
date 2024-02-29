@@ -6,9 +6,8 @@ metadata:
     github.com/project-slug: arnavrazdann/demo2
     backstage.io/techdocs-ref: value
   links:
-    - url: https://dashboard.example.com
-      title: My Dashboard
-      icon: dashboard  
+    - url: https://github.com/arnavrazdann
+      title: My github
 spec:
   type: other
   lifecycle: unknown
