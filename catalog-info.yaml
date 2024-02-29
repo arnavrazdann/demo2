@@ -4,6 +4,11 @@ metadata:
   name: demo2
   annotations:
     github.com/project-slug: arnavrazdann/demo2
+    backstage.io/techdocs-ref: value
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard  
 spec:
   type: other
   lifecycle: unknown
